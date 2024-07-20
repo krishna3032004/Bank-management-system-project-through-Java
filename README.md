@@ -19,7 +19,7 @@ This project is a simple Bank Management System developed using Java. The system
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/bank-management-system.git
+   git clone https://github.com/krishna3032004/Bank-management-system-project-through-Java.git
    cd bank-management-system
    ```
    
